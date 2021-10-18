@@ -44,14 +44,24 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 ![image](https://user-images.githubusercontent.com/41973452/137698742-c90413f1-8387-4dd1-b372-927931dab685.png)
 
 
+
+
 ##### Note: The versions highlighted in orange are perfectly fine to use, they are just built with a different system `cmake vs qmake`
 
-3. Unzip the `Chatterino2` folder to the place on your computer you want it
-```
-If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
-```
 
-4. Open the folder and run Chatterino.exe
+
+
+3. Unzip the `Chatterino2` folder to the place on your computer you want it
+
+
+
+
+If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
+
+
+
+
+4. Open the folder and run `Chatterino.exe`
 ![image](https://user-images.githubusercontent.com/41973452/137692756-711d5c54-c126-4e06-99af-d86768efa3f1.png)
 
 ### Congratulations - you are now using Chatterino Nightly
