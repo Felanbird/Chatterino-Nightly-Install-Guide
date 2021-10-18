@@ -36,7 +36,7 @@ Normal - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build](h
 7TV - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV)
 
 ### Dankerino
-While Dankerino does not have a specific third-party addition, like the prior 2 versions, it has many quality of life additions that may not have been accepted to the main version of Chatterino.
+While Dankerino does not have a specific third-party addition, like the prior 2 versions, it has many quality of life additions that may not have been accepted to the main version of Chatterino
 More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
 
 Dankerino supports both Normal and 7TV by offering the ability to disable 7TV
@@ -77,7 +77,8 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 # How to Update Nightly <a name="how-to-update"></a>
-Unlike the installer version of Chatterino which offers in-client updates, nightly versions do **not** automatically update 
+Unlike the installer version of Chatterino which offers in-client updates, nightly versions do **not** automatically update
+ 
 If there is a new feature you want, you re-download it the same way you did before
 
 
