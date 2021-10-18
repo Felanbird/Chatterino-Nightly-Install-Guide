@@ -51,7 +51,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
-3. Unzip the `Chatterino2` folder to the place on your computer you want it
+3\. Unzip the `Chatterino2` folder to the place on your computer you want it
 
 
 
@@ -61,7 +61,9 @@ If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7
 
 
 
-4. Open the folder and run `Chatterino.exe`
+4\. Open the folder and run `Chatterino.exe`
+
+
 ![image](https://user-images.githubusercontent.com/41973452/137692756-711d5c54-c126-4e06-99af-d86768efa3f1.png)
 
 ### Congratulations - you are now using Chatterino Nightly
