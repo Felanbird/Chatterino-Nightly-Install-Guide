@@ -1,4 +1,5 @@
-# HOW TO INSTALL CHATTERINO NIGHTLY ON  WINDOWS & MACOS
+![chatterino_nightly_guide_header](https://user-images.githubusercontent.com/41973452/137709360-3364e5b3-93ce-40ca-a062-590174a3436f.png)
+
 
 1. [What is Nightly?](#what-is-nightly)
 2. [Nightly Versions](#nightly-versions)
@@ -44,6 +45,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 # How to Download <a name="how-to-download"></a>
 1\. Choose the version of Chatterino you want
+
 2\. Click to download the version for your operating system
 ![image](https://user-images.githubusercontent.com/41973452/137698742-c90413f1-8387-4dd1-b372-927931dab685.png)
 
