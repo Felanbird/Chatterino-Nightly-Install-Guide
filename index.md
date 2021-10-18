@@ -17,26 +17,26 @@ For Chatterino - all changes in between major releases are available on nightly.
 
 ### "Normal" Chatterino
 The original version of nightly can be obtained here: 
-https://github.com/Chatterino/chatterino2/releases/tag/nightly-build 
+[https://github.com/Chatterino/chatterino2/releases/tag/nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build) 
 
 ### 7TV Chatterino
-The 7TV version of nightly adds support for the 3rd party emote service `7TV` - https://7tv.app
-It can be found here: https://github.com/SevenTV/chatterino7/releases/tag/nightly-build
+The 7TV version of nightly adds support for the 3rd party emote service `7TV` - [https://7tv.app](https://7tv.app)
+It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/nightly-build](https://github.com/SevenTV/chatterino7/releases/tag/nightly-build)
 
 ### Pronoun Chatterino
 The Pronoun version of nightly adds support for the `Twitch Chat Pronouns` extension 
-created by: Alejo47 - https://pronouns.alejo.io/
+created by: Alejo47 - [https://pronouns.alejo.io](https://pronouns.alejo.io)
 
 Both Normal and 7TV versions of this can be found here:
-Normal - https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build
-7TV - https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV
+Normal - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build)
+7TV - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV)
 
 ### Dankerino
 While Dankerino does not have a specific third-party addition, like the prior 2 versions, it has many quality of life additions that may not have been accepted to the main version of Chatterino.
 More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
 
 Dankerino supports both Normal and 7TV by offering the ability to disable 7TV.
-It can be found here: https://github.com/Mm2PL/dankerino/releases/tag/nightly-build
+It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-build](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build)
 
 # How to Download <a name="how-to-download"></a>
 1. Choose the version of Chatterino you want
@@ -48,9 +48,9 @@ It can be found here: https://github.com/Mm2PL/dankerino/releases/tag/nightly-bu
 ##### Note: The versions highlighted in orange are perfectly fine to use, they are just built with a different system `cmake vs qmake`
 
 3. Unzip the `Chatterino2` folder to the place on your computer you want it
-3a. If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
+- If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
 
-5. Open the folder and run Chatterino.exe
+4. Open the folder and run Chatterino.exe
 ![image](https://user-images.githubusercontent.com/41973452/137692756-711d5c54-c126-4e06-99af-d86768efa3f1.png)
 ### Congratulations - you are now using Chatterino Nightly
 **This exe is the one you will use now instead of your old one**
@@ -62,7 +62,7 @@ If there is a new feature you want, you re-download it the same way you did befo
 
 
 # Chromebook & Linux <a name="chromebook-support"></a>
-You are able to run Chatterino on a Chromebook, by utilizing it's built in Linux terminal, a guide on how to enable that can be found here: https://support.google.com/chromebook/answer/9145439
+You are able to run Chatterino on a Chromebook, by utilizing it's built in Linux terminal, a guide on how to enable that can be found here: [https://support.google.com/chromebook/answer/9145439](https://support.google.com/chromebook/answer/9145439)
 
 After finishing installing Linux you can download the `AppImage` found highlighted in green in
 [How-To-Download](#how-to-download)
