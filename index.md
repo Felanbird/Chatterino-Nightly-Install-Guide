@@ -21,6 +21,7 @@ The original version of nightly can be obtained here:
 
 ### 7TV Chatterino
 The 7TV version of nightly adds support for the 3rd party emote service `7TV` - [https://7tv.app](https://7tv.app)
+
 It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/nightly-build](https://github.com/SevenTV/chatterino7/releases/tag/nightly-build)
 
 ### Pronoun Chatterino
@@ -28,6 +29,7 @@ The Pronoun version of nightly adds support for the `Twitch Chat Pronouns` exten
 created by: Alejo47 - [https://pronouns.alejo.io](https://pronouns.alejo.io)
 
 Both Normal and 7TV versions of this can be found here:
+
 Normal - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build)
 7TV - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV)
 
@@ -36,6 +38,7 @@ While Dankerino does not have a specific third-party addition, like the prior 2 
 More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
 
 Dankerino supports both Normal and 7TV by offering the ability to disable 7TV.
+
 It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-build](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build)
 
 # How to Download <a name="how-to-download"></a>
