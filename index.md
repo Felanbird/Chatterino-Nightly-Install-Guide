@@ -56,7 +56,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
-If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
+- If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
 
 
 
