@@ -37,7 +37,7 @@ Normal - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build](h
 
 ### Dankerino
 While Dankerino does not have a specific third-party addition, like the prior 2 versions, it has many quality of life additions that may not have been accepted to the main version of Chatterino
-More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
+\- More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
 
 Dankerino supports both Normal and 7TV by offering the ability to disable 7TV
 
@@ -52,7 +52,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
-##### Note: The versions highlighted in orange are perfectly fine to use, they are just built with a different system `cmake vs qmake`
+- ##### Note: The versions highlighted in orange are perfectly fine to use, they are just built with a different system `cmake vs qmake`
 
 
 
@@ -62,7 +62,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
-- If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html)
+- If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html) or [winrar](https://www.win-rar.com/download.html)
 
 
 
