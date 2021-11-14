@@ -27,7 +27,8 @@ It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/night
 
 ### Pronoun Chatterino
 The Pronoun version of nightly adds support for the `Twitch Chat Pronouns` extension 
-created by: Alejo47 - [https://pronouns.alejo.io](https://pronouns.alejo.io) The setting needs to be toggled on in settings. (⚙️)
+created by: Alejo47 - [https://pronouns.alejo.io](https://pronouns.alejo.io) 
+The setting needs to be toggled on in settings. (⚙️)
 
 ### -  While this version of Chatterino works, it requires checking `every. single. user.` for pronouns one at a time, which will cause extreme load times for the pronouns if you have many channels open, and will appear as if the pronoun extension is not working.
 
