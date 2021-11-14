@@ -75,7 +75,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 ![image](https://user-images.githubusercontent.com/41973452/137692756-711d5c54-c126-4e06-99af-d86768efa3f1.png)
 
-### Congratulations - you are now using Chatterino Nightly
+### Congratulations - you are now using Chatterino Nightly <a name=""></a>
 **This exe is the one you will use now instead of your old one**
 
 
