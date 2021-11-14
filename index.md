@@ -94,4 +94,4 @@ After finishing installing Linux you can download the `AppImage` found highlight
 Then execute the following 2 commands:
 `chmod +x Chatterino-x86_64.AppImage` & `./Chatterino-x86_64.AppImage`
 
-###### *commands are not guaranteed to work I don't use much Linux*
+###### *these might not be the only commands you need, I don't use much Linux*
