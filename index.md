@@ -47,7 +47,7 @@ Dankerino supports both Normal and 7TV by offering the ability to disable 7TV
 It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-build](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build)
 
 # How to Download <a name="how-to-download"></a>
-1\. Choose the version of Chatterino you want
+1\. Choose the version of Chatterino you want (scroll up if you came here from the chromebook link)
 
 2\. Click to download the version for your operating system
 ![image](https://user-images.githubusercontent.com/41973452/137698742-c90413f1-8387-4dd1-b372-927931dab685.png)
