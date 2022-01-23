@@ -65,6 +65,10 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
+- If you have previously installed a Chatterino stable build and want the .lnk shortcuts to still work, by default on Windows, the Chatterino install path is `C:\Program Files\Chatterino`
+
+
+
 - If you are unable to unzip the Chatterino2 folder, download [7zip](https://www.7-zip.org/download.html) or [winrar](https://www.win-rar.com/download.html)
 
 
