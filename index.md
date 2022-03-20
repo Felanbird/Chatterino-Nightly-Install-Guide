@@ -92,7 +92,7 @@ If there is a new feature you want, you re-download it the same way you did befo
 # Chromebook & Linux <a name="chromebook-support"></a>
 You are able to run Chatterino on a Chromebook, by utilizing it's built in Linux terminal, a guide on how to enable that can be found here: [https://support.google.com/chromebook/answer/9145439](https://support.google.com/chromebook/answer/9145439)
 
-After finishing installing Linux you can right+click copy the `AppImage` download found highlighted in green in
+After finishing installing Linux you can right+click copy the `AppImage` download link found highlighted in green in
 [How-To-Download](#how-to-download)
 
 Then execute the following commands:  
