@@ -95,9 +95,9 @@ You are able to run Chatterino on a Chromebook, by utilizing it's built in Linux
 After finishing installing Linux you can right+click copy the `AppImage` download found highlighted in green in
 [How-To-Download](#how-to-download)
 
-Then execute the following commands:
-`cd /usr/local/bin`
-`sudo bash -c "curl -L https://github.com/Chatterino/chatterino2/releases/download/nightly-build/Chatterino-x86_64.AppImage > ./chatterino"`
-###### *replace URL with the version you want if not using "normal" chatterino*
-`sudo chmod +x ./chatterino`
+Then execute the following commands:  
+`cd /usr/local/bin`  
+`sudo bash -c "curl -L https://github.com/Chatterino/chatterino2/releases/download/nightly-build/Chatterino-x86_64.AppImage > ./chatterino"`  
+###### *replace URL with the version you want if not using "normal" chatterino*  
+`sudo chmod +x ./chatterino`  
 `./chatterino`
