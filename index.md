@@ -79,7 +79,8 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 # Whispers <a name="whispers"></a>
 All versions of Chatterino Nightly after [2022-10-08](https://github.com/Chatterino/chatterino2/commit/974a8f1) that are properly kept up-to-date, will have the capability to whisper despite your accountage.
-- You are able to whisper on these Chatterino Nightly versions if you have a verified phone number attached to your Twitch account. To add a verified phone number head to your [Twitch Settings.](https://www.twitch.tv/settings/security)
+- You are able to whisper on these Chatterino Nightly versions if you have a verified phone number attached to your Twitch account.  
+To add a verified phone number head to your [Twitch Settings.](https://www.twitch.tv/settings/security)
 - Once you have added a phone number, you can toggle the setting `Helix timegate /w behaviour` to `Always Use Helix`
 ![/w_helix_timegate](https://user-images.githubusercontent.com/41973452/194681515-1f3eb3a8-f54c-41b2-884f-5e7a0d9f329c.png)
 
