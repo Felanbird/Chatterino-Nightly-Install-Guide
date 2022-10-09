@@ -55,11 +55,6 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 
 
 
-- ##### Note: The versions highlighted in orange are perfectly fine to use, they are just built with a different system `cmake vs qmake`
-
-
-
-
 3\. Unzip the `Chatterino2` folder to the place on your computer you want it
 
 
