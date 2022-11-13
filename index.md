@@ -21,7 +21,11 @@ The original version of nightly can be obtained here:
 [https://github.com/Chatterino/chatterino2/releases/tag/nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build) 
 
 ### 7TV Chatterino
-The 7TV version of nightly adds support for the 3rd party emote service `7TV` - [https://7tv.app](https://7tv.app)
+The 7TV version of nightly adds support for the 3rd party emote service `7TV` - [https://7tv.app](https://7tv.app)  
+- Due to the addition of 7TV to chatterino2 nightly, you only need to download chatterino7 if you'd like one of the following features:
+
+		7TV Animated Profile Pictures
+		7TV Paints (colorized names) 
 
 It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/nightly-build](https://github.com/SevenTV/chatterino7/releases/tag/nightly-build)
 
