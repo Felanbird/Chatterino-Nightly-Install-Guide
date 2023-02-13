@@ -54,7 +54,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 1\. Choose the version of Chatterino you want (scroll up if you came here from the chromebook link)
 
 2\. Click to download the version for your operating system
-![image](https://user-images.githubusercontent.com/41973452/218566422-93ede123-5e86-4948-b082-7c93375244cd.png)
+![image](https://user-images.githubusercontent.com/41973452/218567072-ca2d5e40-603e-4e3b-889d-97d5e742cba4.png)
 
 
 
