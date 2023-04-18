@@ -26,6 +26,7 @@ The 7TV version of nightly adds support for the 3rd party emote service `7TV` - 
 
 		7TV Animated Profile Pictures
 		7TV Paints (colorized names) 
+		7TV Personal Emotes
 
 It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/nightly-build](https://github.com/SevenTV/chatterino7/releases/tag/nightly-build)
 
