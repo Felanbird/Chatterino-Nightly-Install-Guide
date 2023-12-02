@@ -55,7 +55,7 @@ It can be found here: [https://github.com/Mm2PL/dankerino/releases/tag/nightly-b
 1\. Choose the version of Chatterino you want (scroll up if you came here from the chromebook link)
 
 2\. Click to download the version for your operating system
-![image](https://user-images.githubusercontent.com/41973452/232639180-f0bad68a-e23b-4cd4-bdd8-f89e6e5dbc64.png)
+![image](https://github.com/Felanbird/Chatterino-Nightly-Install-Guide/assets/41973452/87ab09a3-83f9-4697-ad1e-be9cf19b8f36)
 
 
 
