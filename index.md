@@ -30,19 +30,6 @@ The 7TV version of nightly adds support for the 3rd party emote service `7TV` - 
 
 It can be found here: [https://github.com/SevenTV/chatterino7/releases/tag/nightly-build](https://github.com/SevenTV/chatterino7/releases/tag/nightly-build)
 
-### Pronoun Chatterino
-The Pronoun version of nightly adds support for the `Twitch Chat Pronouns` extension 
-created by: Alejo47 - [https://pronouns.alejo.io](https://pronouns.alejo.io) 
-Needs to be toggled on in settings. (⚙️)
-
-- **While this version of Chatterino works, it requires checking `every. single. user.` for pronouns one at a time, which will cause extreme load times for the pronouns if you have many channels open, and will appear as if the pronoun extension is not working.**
-
-Both Normal and 7TV versions of this can be found here:
-
-Normal - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build)
-
-7TV - [https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV](https://github.com/GabeEddyT/chatterino2/releases/tag/nightly-build-7TV)
-
 ### Dankerino
 While Dankerino does not have a specific third-party addition, like the prior 2 versions, it has many quality of life additions that may not have been accepted to the main version of Chatterino
 \- More information can be found [here.](https://github.com/Mm2PL/dankerino#readme)
